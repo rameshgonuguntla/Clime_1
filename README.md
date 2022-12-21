@@ -40,4 +40,4 @@ public class GFG {
                                + " \"vishal\" is:- " + a);
         }
     }
-.
+  }
